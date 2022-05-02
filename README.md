@@ -9,6 +9,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-amaral18&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>
+  <a href="https://app.daily.dev/jv_amaral"><img src="https://api.daily.dev/devcards/422506bbde004dddaff3f5eeda983bc3.png?r=5w4" width="400" alt="joavitor's Dev Card"/></a>
   <img align="center" alt="JV-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="JV-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="JV-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
