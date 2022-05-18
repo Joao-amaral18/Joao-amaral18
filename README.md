@@ -6,8 +6,6 @@
 <div align="center">
 
   <a href="https://github.com/Joao-amaral18">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao-amaral18&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-amaral18&layout=compact&langs_count=7&theme=radical"/>
     <hr>
 - <a href="https://app.daily.dev/jv_amaral"><img src="https://api.daily.dev/devcards/422506bbde004dddaff3f5eeda983bc3.png?r=5w4" width="250" alt="joavitor's Dev Card"/></a>
  <hr>
