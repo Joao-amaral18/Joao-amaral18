@@ -8,8 +8,7 @@
   ```typescript
   const AboutMe = {
   Name: "Joao Vitor Lima",
-  Age: 17,
-  Pronouns: ["He", "Him"],
+  Age: 21,
   Hobbies: [
    "Coding", "Games", "Karaoke", "Learning New Stuff", "Listening to music" 
   ]
@@ -18,5 +17,9 @@
   I’m a Student, Web Developer, and Linux Enthusiast.
   <hr>
   <br>
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,azure,cs,dotnet,linux,nodejs,rust,ts)](https://skillicons.dev)
   </div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,azure,cs,dotnet,linux,nodejs,rust,ts" />
+  </a>
+</p>
