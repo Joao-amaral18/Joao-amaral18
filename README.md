@@ -10,7 +10,7 @@
   Name: "Joao Vitor Lima",
   Age: 21,
   Hobbies: [
-   "Coding", "Games", "Karaoke", "Learning New Stuff", "Listening to music" 
+   "Coding", "Games", "Listening to music", "Learning New Stuff", "Karaoke"
   ]
 }
   ```
