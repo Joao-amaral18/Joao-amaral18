@@ -22,7 +22,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
    <h3> Programming languages</h3>
-    <img src="https://skillicons.dev/icons?i=js,ts,cs,bash,nodejs,rust,python,php" />
+    <img src="https://skillicons.dev/icons?i=js,ts,php,cs,bash,nodejs,rust,python" />
   </a>
    <a href="https://skillicons.dev">
    <h3> Frontend Frameworks</h3>
