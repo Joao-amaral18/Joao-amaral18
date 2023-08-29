@@ -8,13 +8,13 @@
   ```typescript
   const AboutMe = {
   Name: "Joao Vitor Lima do Amaral",
-  Age: 21,
+  Age: 22,
   Hobbies: [
    "Coding", "Games", "Listening to music", "Learning New Stuff", "Karaoke"
   ]
 }
   ```
-  I’m a Student, Web Developer, and Linux Enthusiast.
+  I’m a Student, Developer and Linux Enthusiast.
   <hr>
   <br>
   </div>
